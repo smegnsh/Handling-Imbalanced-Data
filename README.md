@@ -1,3 +1,2 @@
-# Handling-Imbalanced-Data
 
 ## Tutorial
